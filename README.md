@@ -42,7 +42,7 @@ Education CRUD and Filtering Operations app has a well-structured code with a we
 </p>
 <p style="font-size:15pt; font-family:Calibri;">
 </p>
-<h3 align="center" style="font-size:20pt; font-family:Calibri;">Education CRUD and Filtering Operations| Check out some features list</h3>
+<h3 align="center" style="font-size:20pt; font-family:Calibri;">Education CRUD and Filtering Operations | Check out some features list</h3>
 <p
 >
 	<ul style="font-size:15pt; font-family:Calibri;">
